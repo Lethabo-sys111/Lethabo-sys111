@@ -1,3 +1,6 @@
+<img width="1600" height="595" alt="WhatsApp Image 2026-11-10 at 14 37 22" src="https://github.com/user-attachments/assets/4b5d898d-b35c-43c4-a7e4-37983ae311a6" />
+
+
 # Hi, I'm Lethabo 👋
 
 Computer Systems Engineering student at **Tshwane University of Technology**. I build across hardware and software: IoT devices, reinforcement-learning agents and web apps.
