@@ -24,4 +24,4 @@ A Raspberry Pi home security system. When armed, it detects motion, photographs 
 Looking for a **2027 internship**: especially interested in software, embedded systems, robotics and AI, and open to other tech roles.
 
 ## 📫 Contact
-lethabokekana526@gmail.com
+[LinkedIn](https://www.linkedin.com/in/lethabokekana) · lethabokekana526@gmail.com
