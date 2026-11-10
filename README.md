@@ -13,9 +13,9 @@ A Raspberry Pi home security system. When armed, it detects motion, photographs 
 `Raspberry Pi` `Python` `Laravel` `React` `NFC` `IoT`
 
 ## 🔧 Tech
-**Languages:** C# · Python · PHP · JavaScript
-**Frameworks & tools:** Unity · ML-Agents · Laravel · React · Git · Linux
-**Hardware:** Raspberry Pi · sensors (PIR, NFC/RC522) · LCD · GPIO
+- **Languages:** C# · Python · PHP · JavaScript
+- **Frameworks & tools:** Unity · ML-Agents · Laravel · React · Git · Linux
+- **Hardware:** Raspberry Pi · sensors (PIR, NFC/RC522) · LCD · GPIO
 
 ## 🎯 Currently
 Looking for a **2027 internship**: especially interested in software, embedded systems, robotics and AI, and open to other tech roles.
